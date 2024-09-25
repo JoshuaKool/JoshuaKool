@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Joshua Kool,
 
 
-I'm a student at the bit academy, who gives my lessons in coding.
+I'm a student at the bit academy
 
 <!--
 **JoshuaKool/JoshuaKool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
